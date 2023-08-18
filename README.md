@@ -6,6 +6,6 @@
 
 <div>
 <img heigh="180" src ="https://github-readme-stats.vercel.app/api?username=MiguelL43&show_icons=true&theme=dark">
-<img heigh="180" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelL43&layout=compact&langs_count=16&theme-dark" />
+
 
 </div>
