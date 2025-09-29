@@ -5,7 +5,8 @@
 
 
 <div>
-<img heigh="180" src ="https://github-readme-stats.vercel.app/api?username=MiguelL43&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelL43&theme=dark">
+
 
 
 </div>
